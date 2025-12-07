@@ -1,0 +1,20 @@
+# Core LangChain packages (modern modular setup)
+langchain
+langchain-community
+langchain-openai
+langchain_google_genai
+langchain-pinecone
+
+# Vector DB + AI stack
+pinecone       # new Pinecone SDK
+openai
+tiktoken
+
+# Document processing
+unstructured
+pypdf
+
+# Data utilities
+pandas
+numpy
+python-dotenv
