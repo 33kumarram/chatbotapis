@@ -18,3 +18,7 @@ pypdf
 pandas
 numpy
 python-dotenv
+
+uvicorn
+fastapi
+
