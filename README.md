@@ -45,22 +45,6 @@ The backend implements a **Retrieval-Augmented Generation (RAG)** pipeline that 
 
 ## 🔌 API Endpoints
 
-### 1️⃣ Health Check
-
-```
-GET /
-```
-
-**Response**
-
-```json
-{
-  "status": "API is running"
-}
-```
-
----
-
 ### 2️⃣ Chat Query API
 
 ```
